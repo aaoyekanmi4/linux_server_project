@@ -1,11 +1,11 @@
 # Linux Server Project README
 
 
-## Public IP Address: 13.59.6.237
+## Public IP Address: 18.220.22.123
 
 ## SSH port: 2200
 
-## Full URL to application: http://ec2-13-59-6-237.us-east-2.compute.amazonaws.com
+## Full URL to application: http://ec2-18-220-22-123.us-east-2.compute.amazonaws.com
 
 ## About
 
